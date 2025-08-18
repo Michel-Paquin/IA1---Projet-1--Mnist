@@ -1,3 +1,13 @@
+
+# MNIST Programme d'entraînement et de prédictions pour le Projet no 1 du cours AI-1
+# Par Samira Lehlou et Michel Paquin cours 420-004-XX Groupe 12504
+'''
+Ce programme extrait une représentation pixélisée d'un chiffre manuscrit dans la base MNIST
+et prédit quel est le chiffre réellement.
+Il affiche le graphique du chiffre en question et donne la valeur réelle.
+Ensuite il affiche la probabiltié que ce soit chaqun des chiffres.
+'''
+
 # predict_simple.py — autonome
 import os
 from functools import lru_cache

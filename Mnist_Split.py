@@ -1,3 +1,11 @@
+
+# MNIST Programme d'entraînement et de prédictions pour le Projet no 1 du cours AI-1
+# Par Samira Lehlou et Michel Paquin cours 420-004-XX Groupe 12504
+'''
+
+Cette fonction divise le dataset MNIST en 3 parties , Train, Test et Validation
+'''
+
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 

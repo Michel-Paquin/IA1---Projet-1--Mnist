@@ -1,3 +1,12 @@
+
+# MNIST Programme d'entraînement et de prédictions pour le Projet no 1 du cours AI-1
+# Par Samira Lehlou et Michel Paquin cours 420-004-XX Groupe 12504
+'''
+
+Ce programme affiche les graphiques d'accuracy et de loss
+à partir des données entraînées MNIST.
+'''
+
 import matplotlib.pyplot as plt
 import tensorflow as tf
 

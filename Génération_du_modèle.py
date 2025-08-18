@@ -1,4 +1,10 @@
 
+# MNIST Programme d'entraînement et de prédictions pour le Projet no 1 du cours AI-1
+# Par Samira Lehlou et Michel Paquin cours 420-004-XX Groupe 12504
+'''
+
+Cette fonction appelle d'autres fonctions pour générer le modèle de a à z.
+'''
 from Mnist_Split import *
 from Créer_modèle import *
 from Entrainer_modele import *

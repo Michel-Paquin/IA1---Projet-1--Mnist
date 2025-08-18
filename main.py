@@ -2,6 +2,8 @@
 # MNIST Programme d'entraînement et de prédictions pour le Projet no 1 du cours AI-1
 # Par Samira Lehlou et Michel Paquin cours 420-004-XX Groupe 12504
 '''
+
+Ce programme permet de choisir entre générer le modèle et le sauvegarder ou de faire des prédictions
 '''
 from Génération_du_modèle import *
 from Prédiction_Entrainement import *
